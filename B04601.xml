@@ -1,0 +1,388 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discoverie, to the praise of God, and joy of all true hearted Protestants, of a late intended plot by the papists, to subdue the Protestants. Being a true copy of a discourse between William O Conner a priest, and Anne Hussey an Irish gentlewoman: as it was brought and confirmed by oath in the Parliament house.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04601</idno>
+            <idno type="STC">Wing O129A</idno>
+            <idno type="STC">ESTC R188706</idno>
+            <idno type="EEBO-CITATION">47012558</idno>
+            <idno type="OCLC">ocm 47012558</idno>
+            <idno type="VID">174526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04601)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174526)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2691:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discoverie, to the praise of God, and joy of all true hearted Protestants, of a late intended plot by the papists, to subdue the Protestants. Being a true copy of a discourse between William O Conner a priest, and Anne Hussey an Irish gentlewoman: as it was brought and confirmed by oath in the Parliament house.</title>
+               </titleStmt>
+               <extent>[3], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed, Anno 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>O'Conner, William.</term>
+               <term>Hussey, Anne.</term>
+               <term>Catholic Church --  Controversial literature --  Great Britain --  17th century.</term>
+               <term>Anti-Catholicism --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174526:1"/>
+            <pb facs="tcp:174526:1" rendition="simple:additions"/>
+            <p>A DISCOVERIE, To the praiſe of God, and joy of all true hearted Proteſtants, of a late intended Plot by the Papiſts, to ſubdue the Proteſtants.</p>
+            <p>Being a true Copy of a Diſcourſe be<g ref="char:EOLhyphen"/>tweene <hi>William O Conner</hi> a Prieſt, and <hi>Anne Huſſey</hi> an Iriſh Gentlewoman: as it was brought and confirmed by oath in the Parliament houſe.</p>
+            <figure>
+               <figDesc>St Peter holds a key and stands over a kneeling, praying woman, with an angel kneeling behind her</figDesc>
+               <p>CHRE PRECORESTO PIV</p>
+               <p>SALVE DOMINE ANGELORVM</p>
+            </figure>
+            <p>Printed, <hi>Anno</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:174526:2"/>
+            <pb n="1" facs="tcp:174526:2"/>
+            <head>A Diſcourſe betwixt <hi>William O Conner</hi> a Prieſt, and Servant to the Queen<g ref="char:EOLhyphen"/>mother, and <hi>Anne Huſſey</hi> an <hi>Iriſh</hi> Gentle<g ref="char:EOLhyphen"/>woman of the Houſe of <hi>Galtrum,</hi> uſually working at Miſtris <hi>Pinoks</hi> Houſe a Schoolemiſtris on the backſide of <hi>Lions</hi> Inne in the <hi>Strand, at ſeverall meetings of theirs ſince</hi> Eaſter 1640. <hi>in theſe words, or to this effect.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> 
+               <hi>Anne Huſſey</hi> comming to Good<g ref="char:EOLhyphen"/>wife <hi>Walker,</hi> a ſtocking mender in the Strand, who ſaid to mee, I would your Countryman were as honeſt as you, that lyes at my houſe; then I asked her, who hee was? Goodwife <hi>Wal<g ref="char:EOLhyphen"/>ker</hi> anſwered mee, and ſaid hee is a Prieſt, and a ſervant to the Queen<g ref="char:EOLhyphen"/>mother, and if any had wit to ſearch it out, they would find out a great deal of Treaſon in him: then I ſayd to Goodwife <hi>Walker,</hi> if you will bee true to mee, and not diſcover me to bee a Proteſtant, I will fetch it out of him if I can, and Goodwife <hi>Walker</hi> promiſed, that ſhee would not diſcover mee, ſo the next day early in the morning, I went up to his chamber at the ſaid Goodwife <hi>Walkers</hi> houſe, and
+<pb n="2" facs="tcp:174526:3"/>was directed to it by her husband, and when the Prieſt had opened his doore, and I in his chamber, he asked me, if I knew him? I anſwered no, but I in<g ref="char:EOLhyphen"/>quired for an Iriſhman, that came with the Queen<g ref="char:EOLhyphen"/>mother, and heareing that he was one, I was bold to come up to him, to entreat him to enquire for an Uncle of mine, one Maſter <hi>Nicholas Huſſey</hi> (a Prieſt) at the Spaniſh Ambaſſadours, whether he was alive, or come over into <hi>England. William O Conner</hi> anſwe<g ref="char:EOLhyphen"/>red me, why doe you not go and enquire your ſelf? I anſwered, I being a woman, was loath to goe a<g ref="char:EOLhyphen"/>mongſt ſo many men.</p>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Are you a Catholike?</p>
+            </sp>
+            <sp>
+               <speaker>Huſſey.</speaker>
+               <p>I was born, and bred one.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>What houſe of <hi>Ireland</hi> are you of?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Of the houſe of <hi>Galtrum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>They are Royall Catholikes, and worthy peo<g ref="char:EOLhyphen"/>ple; then he asked me what my name was? I told him <hi>Anne Huſſey,</hi> ſo hee brought me to Miſtris <hi>Pinocks</hi> houſe, and ſo departed for that time.</p>
+               <p>At a ſecond meeting on Saturday after, <hi>William O Conner</hi> the Prieſt came againe to Miſtris <hi>Pincoks</hi> houſe to aske for me, and deſired me goe drink with him at a Tavern, which I refuſed, but went with him to one Maſter <hi>Hils</hi> an Alehouſe, and there wee fell into this following diſcourſe.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I told him I was troubled in minde about one thing that I deſired to know.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>You muſt relate it to a Prieſt.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>If I knew an <hi>Iriſh</hi> Prieſt, that would tell mee faithfully, I would.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I am one my ſelfe, and immediatly hee croſſed me over the forehead.</p>
+            </sp>
+            <pb n="3" facs="tcp:174526:3"/>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I asked him, whether the number of the Pro<g ref="char:EOLhyphen"/>teſtants, or the Papiſts of England were the greateſt?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>He ſaid the Papiſts were.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Then they will conquer our Country (mea<g ref="char:EOLhyphen"/>ning Ireland.)</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Firſt, we muſt began with England.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>How, or in what manner will they begin with England? and when will it be?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>When the King goes to Scotland.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>There is no hope of the Kings going to Scot<g ref="char:EOLhyphen"/>land.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I'le warrant you he doth.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Can you not procure me letters from beyond Sea, to helpe me to be a Nun?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>It is a hard taske for you to performe, to be a Nun.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Why, I can live chaſte, I never mean to marry.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Although you doe not marry, you may ly with a man.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I but that is ſin.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>But the Prieſt can forgive it.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I know he can.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Yes you may ly with a man, ſteale, kill a man, or any man may kill a King, for the advancement of the Church of Rome, and the Prieſt can forgive him.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I have heard there is a Proteſtant book called a Bible, and by their report it ſaith, <hi>that whoſoever ſheds mans bloud, by man ſhall his bloud be ſhed,</hi> and we muſt feare God and honour the King, and pray for the King, that we may live a peaceable, a quiet and a holy life.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>For your life read not that book, for I will not
+<pb n="4" facs="tcp:174526:4"/>read it for a thouſand worlds, and further ſaid, whe<g ref="char:EOLhyphen"/>ther doe you goe to Maſſe?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>To a private houſe I doe goe.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I praiſe God there is many of them, and bid me come next day (being Sabbath day) to St. <hi>Iameſes,</hi> and I ſhould heare him ſay Maſſe before the Queene<g ref="char:EOLhyphen"/>mother.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I have buſineſſe to morrow, that I cannot goe thither to Maſſe, nor to any other place, but will ſome other time.</p>
+               <q>
+                  <l>So ended our diſcourſe at that time.</l>
+                  <l>At another meeting, &amp;c.</l>
+               </q>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>At his requeſt I went to his Chamber at Miſtris <hi>Scarlotts</hi> houſe in Coven Garden, in Blackmoore ſtreete, at the ſigne of the Sedan (about a fortnight after) one day in the after noone, where I found him upon his Bed, and hee gave mee three ſhirts of fine holland of about ſixteene ſhillings an ell (as they were judged) to marke for him upon the breaſt or boſome, in this manner following.
+<q>
+                     <p>
+                        <hi>Ieſus Maria.</hi>
+                     </p>
+                     <p>
+                        <hi>William O Conner.</hi>
+                     </p>
+                  </q>
+               </p>
+               <p>At which time he ſhewed me his beads, and other knacks, and clothes made of black pluſh, ſcarlet, and as I thinke a hairecolour ſatten; after this I left him and carried away the ſhirts to be marked, but inſtead of marking them as hee directed, I marked them only with a Crucifix and his name, and the ſame night a<g ref="char:EOLhyphen"/>bout nine of the clock, he came to me for his Shirts, and brought an Iriſh man with him in a long gray coate, with a ſword girt cloſe to his ſide, under his
+<pb n="5" facs="tcp:174526:4"/>arme, I asked the Prieſt who he was?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>He is one of the number of the 7000. that is in private pay, and in readineſſe to aide the Catho<g ref="char:EOLhyphen"/>likes, and to cut the Proteſtants throats that ſhould reſiſt them.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>What office hath this man with them?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Hee is one that blowes the Pipe, with the Drum.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Let mee ſee it, and immediatly hee drew it out and would have played on it, but I deſired him to forbeare, leſt hee was diſcovered, which adviſe they liked well, and prayſed me highly, and offered mee the lives of any, that I would deſire to bee ſaved.</p>
+            </sp>
+            <stage>And ſo they departed.</stage>
+            <p>About the latter end of <hi>Iuly</hi> 1640. hee came to me at Miſtris <hi>Pinock's</hi> houſe aforeſayd, and ſaid hee came upon great occaſion, and in great haſte, and hee muſt immediatly returne back.</p>
+            <p>I asked him the occaſion.</p>
+            <sp>
+               <speaker>P.</speaker>
+               <p>I have three Letters from the Queene mother, to be delivered to three Ambaſſadors, the <hi>Spaniſh,</hi> the <hi>Venetian,</hi> the <hi>French.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Wherefore?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>To ſend to the Pope.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Can you doe nothing without the Popes leave?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Either by himſelfe, or his Legate, wee muſt know when to begin.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>To begin what?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The ſubduing of the Proteſtants.</p>
+            </sp>
+            <pb n="6" facs="tcp:174526:5"/>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I doe not like their fury, if they once draw the ſword they are like Lions.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>What are they, if their King be cut off?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>You can never overcome the King by the ſword.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>If we cannot that way, we can another.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>How?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Doe you think my Lady and Queen is a fool?</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>I do not think ſhe is a fool.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>If no hand will doe it, this hand ſhall.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Do what?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Kill him.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>Who?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>The King.</p>
+            </sp>
+            <sp>
+               <speaker>H.</speaker>
+               <p>What, you kill the King?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>Ah! kill an hereticke at any time for the ad<g ref="char:EOLhyphen"/>vancement of the mother-Church of Rome, and ſwore by Saint <hi>Francis,</hi> and Saint <hi>Dominick,</hi> that he would doe it, and promiſed to come againe on Munday after to pay me for marking of his ſhirts, and to beſtow ſome bracelets upon mee, but hee never came to me afterwards.</p>
+               <p>This <hi>William O Conner</hi> the Prieſt, would not ſuffer me to ſpeake a word in all this diſcourſe, but in Iriſh, and confeſſed he hath beene long employed by the Queene-mother in her buſineſſe with all the Princes in Chriſtendome, and with the great Turke, and he profeſſed further to goodwife <hi>Walker,</hi> (as ſhee told me on Munday laſt) much of his care in the kee<g ref="char:EOLhyphen"/>ping of the Queens ſecrets, and that hee would bee burnt in a fire before he would reveale them.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
